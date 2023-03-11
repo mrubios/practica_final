@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360932872054",
+    "project_id": "practicafinalsegundotrimestre",
+    "storage_bucket": "practicafinalsegundotrimestre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360932872054:android:21b6dedef0318b36127457",
+        "android_client_info": {
+          "package_name": "com.example.practica_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360932872054-lsi92k4ftqj0v6q7995bbrfcarud3teh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG-P9sdL-wzYv0B-2SG2vieZ740LAmgXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360932872054-lsi92k4ftqj0v6q7995bbrfcarud3teh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
